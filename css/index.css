@@ -309,8 +309,134 @@ footer nav a {
     font-size:30px;
   
 }
-.about-page p{
-
-    font-size:20px;
+.about-page p {
+font-size:20px;
     margin-bottom:15px;
+  border-bottom: dotted;
+}
+#ThumbnailsAboutOne{
+    display: flex;
+   
+}
+#ThumbnailsAboutOne img{
+    display:flex;
+   padding-left:4rem;
+    margin-left:6rem;
+    width:400px;
+    object-fit: cover;
+   
+}
+.Strategy h3{
+    font-size:20px;
+    text-align:center;
+    margin-top:5px;
+}
+.Strategy p{
+    width:50%;
+    text-align:center;
+    margin-left:10rem;
+
+}
+.Strategy button{
+    font-size:20px;
+    margin-top:5px;
+    margin-left:14.75rem;
+    border:solid 5px;
+    border-radius:10rem;
+    padding:1.5rem
+}
+
+.HowWeWork h3{
+    font-size:20px;
+    margin-top:5px;
+    text-align: center;
+}
+.HowWeWork p{
+    width:50%;
+    text-align:center;
+    margin-left:10rem;
+
+}
+.HowWeWork button{
+    font-size:20px;
+    margin-top:5px;
+    margin-left:14.75rem;
+    border:solid 5px;
+    border-radius:10rem;
+    padding:1.5rem
+}
+#ttwo {
+    display: flex;
+    margin-top:20px;
+    margin-left:8rem;
+    
+}
+
+#ttwo img{
+    width:400px;
+}
+.PlacesWeWork h3{
+    font-size:20px;
+    text-align:center;
+    margin-top:5px;
+    margin-right:160px;
+}
+.PlacesWeWork p{
+    width:50%;
+    text-align:center;
+    margin-left:3.75rem;
+margin-right:10px;
+    
+
+}
+.PlacesWeWork button{
+    font-size:20px;
+    margin-top:5px;
+   margin-left:6rem;
+    border:solid 5px;
+    border-radius:10rem;
+    padding:1.5rem
+    
+    
+}
+.Collab img{
+    display: flex;
+    justify-content: center;
+}
+.Collab h3{
+    font-size:20px;
+    text-align:center;
+    margin-top:8px;
+  margin-right:100px;
+}
+.Collab p{
+    text-align:center;
+    width:50%;
+    margin-left:83px;
+}
+
+.Collab button{
+    font-size:20px;
+    margin-top:5px;
+   margin-left:8.70rem;
+    border :solid 5px;
+    border-radius:10rem;
+    padding:1.5rem
+}
+.Lets-work{
+    display:flex;
+    flex-direction: column;
+    margin-top:15px;
+    
+    width:75%;
+    margin-left:8.70rem;
+}
+
+.Lets-work h3{
+    font-size: 35px;
+    margin-top:10px;
+}
+.Lets-work p{
+    font-size:20px;
+    margin-bottom: 25px;
 }
