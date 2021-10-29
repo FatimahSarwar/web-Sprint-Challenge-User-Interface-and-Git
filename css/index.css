@@ -55,18 +55,16 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
-#NavHeader{
-  display: flex;
-    flex-wrap: wrap;
-
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:35px;
 }
-#NavHeader img{
-    width:20%;
-    margin-left: 50px;
+.LambdaImage img{
     margin-top: 25px;
+    margin-left:20px;
+    width:15%;
 }
-
-
 
 h1, h2, h3, h4, h5 {
     font-size: 18px;
