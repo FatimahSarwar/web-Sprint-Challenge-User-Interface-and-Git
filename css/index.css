@@ -55,6 +55,18 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
+#NavHeader{
+  display: flex;
+    flex-wrap: wrap;
+
+}
+#NavHeader img{
+    width:20%;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+
 
 h1, h2, h3, h4, h5 {
     font-size: 18px;
