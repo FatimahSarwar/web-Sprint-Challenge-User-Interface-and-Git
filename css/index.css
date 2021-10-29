@@ -281,3 +281,36 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.HeaderAboutPage{
+    margin-right:200px;
+    margin-left:100px;
+    margin-top:25px;
+    }
+.HeaderAboutPage img{
+    width:1000px;
+ }
+.HeaderAboutPage, .about-page{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+.about-page{
+    display: flex;
+    flex-direction: column;
+    margin-top:20px;
+    justify-content: left;
+
+    
+    
+}
+.about-page h3{
+    font-size:30px;
+  
+}
+.about-page p{
+
+    font-size:20px;
+    margin-bottom:15px;
+}
